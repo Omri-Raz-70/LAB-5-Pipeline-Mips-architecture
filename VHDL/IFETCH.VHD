@@ -60,7 +60,7 @@ BEGIN
 		lpm_hint => "ENABLE_RUNTIME_MOD = YES,INSTANCE_NAME = ITCM",
 		lpm_type => "altsyncram",
 		outdata_reg_a => "UNREGISTERED",
-		init_file => "C:\Users\Eyal\Desktop\Architecture-Labs\Lab_5\Library\test2\bin\ITCM.hex",
+		init_file => "path",
 		intended_device_family => "Cyclone"
 	)
 	PORT MAP (
